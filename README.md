@@ -32,3 +32,9 @@ git fetch --all
 git fetch
 git rebase main origin/main
 ```
+
+## Para copiar los commits remotos (opción 3)
+
+```
+git pull --rebase
+```
