@@ -13,3 +13,15 @@ git clone <url del repositorio> <nombre carpeta destino>
 git fetch
 git merge origin/main
 ```
+
+## Para copiar los commits remotos (opción 2)
+
+```
+git pull
+```
+
+## Para copiar los commits remotos de todas las ramas remotas
+
+```
+git fetch --all
+```
