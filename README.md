@@ -38,3 +38,5 @@ git rebase main origin/main
 ```
 git pull --rebase
 ```
+
+git commit <commit> -- <ruta del archivo>
