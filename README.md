@@ -30,5 +30,5 @@ git fetch --all
 
 ```
 git fetch
-git merge origin/main
+git rebase main origin/main
 ```
