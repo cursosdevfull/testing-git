@@ -25,3 +25,10 @@ git pull
 ```
 git fetch --all
 ```
+
+## Para copiar los commits remotos (opción 3)
+
+```
+git fetch
+git merge origin/main
+```
