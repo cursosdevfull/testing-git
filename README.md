@@ -1,4 +1,4 @@
-# testing-git
+# Simulando el trabajo en equipo
 
 ## Para clonar
 
